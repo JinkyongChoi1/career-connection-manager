@@ -51,25 +51,25 @@ The names, companies, roles, and messages are synthetic.
 The preview above is the README cover for the product.
 The generated dashboard itself is available in [`demo_site/index.html`](demo_site/index.html).
 
+### Try it from GitHub
+
 Python 3.9 or newer is the only requirement.
+Clone the repository, enter the project folder, and start the interactive synthetic demo:
 
 ```bash
-./career demo
-open demo_site/index.html
-```
-
-The demo creates fictional companies, people, jobs, interactions, and reminders.
-It does not contain personal data.
-
-For the clickable version, run the demo through the local server:
-
-```bash
-./career demo
-./career serve --demo --data-dir demo_data --output demo_site/index.html
+git clone https://github.com/JinkyongChoi1/career-connection-manager.git
+cd career-connection-manager
+python3 career demo
+python3 career serve --demo --data-dir demo_data --output demo_site/index.html
 ```
 
 Then open [http://127.0.0.1:8765](http://127.0.0.1:8765).
-The local server makes status and pursuit-decision controls work; rerun `./career demo` whenever you want to reset the fictional records.
+The local server makes status and pursuit-decision controls work.
+Run `python3 career demo` again whenever you want to reset the fictional records.
+
+> [!note] Repository access
+> This repository is private, so GitHub will ask users to sign in and only invited collaborators can clone it.
+> The demo contains fictional companies, people, jobs, interactions, and reminders; it does not contain personal data.
 
 ## Start a private workspace
 
