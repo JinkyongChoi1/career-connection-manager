@@ -304,6 +304,9 @@ TikTok is a short-form video platform.
         self.assertIn("Pursue?", page)
         self.assertIn("data-view=\"messages\"", page)
         self.assertIn("Messages", page)
+        self.assertIn("thead{position:static", page)
+        self.assertNotIn("thead{position:sticky", page)
+        self.assertNotIn("thead{top:", page)
         self.assertEqual(validate(self.data), [])
 
     def test_message_draft_is_labeled_and_does_not_count_as_sent(self):
