@@ -1,0 +1,10 @@
+private_data/
+backups/
+site/
+pending_import.json
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.career-write.lock
+tmp/

@@ -1,0 +1,4 @@
+company_id,name,target_status,industry,location,careers_url,notes,created_at,updated_at,archived
+com_northstar,Northstar AI,priority,Foundation models,"San Francisco, CA",https://example.com/northstar,Synthetic demo company,2026-08-19T16:09:23,2026-08-19T16:09:23,false
+com_cascade,Cascade Intelligence,priority,AI agents,"Seattle, WA",https://example.com/cascade,Synthetic demo company,2026-08-19T16:09:23,2026-08-19T16:09:23,false
+com_lantern,Lantern Compute,watch,AI infrastructure,"Palo Alto, CA",https://example.com/lantern,Synthetic demo company,2026-08-19T16:09:23,2026-08-19T16:09:23,false

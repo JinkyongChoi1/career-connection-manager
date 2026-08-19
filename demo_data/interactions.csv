@@ -1,0 +1,5 @@
+interaction_id,person_id,job_id,type,date,notes,result,created_at
+int_outreach,per_maya,job_strategy,outreach,2026-08-13,Asked about the strategy team,,2026-08-19T16:09:23
+int_reply,per_jordan,job_bizops,reply,2026-08-17,Agreed to chat,coffee chat scheduled,2026-08-19T16:09:23
+int_coffee_chat,per_jordan,job_bizops,coffee_chat,2026-08-21,10:00 AM PT · Video call,,2026-08-19T16:09:23
+int_application,per_jordan,job_bizops,application,2026-08-18,Submitted with referral,,2026-08-19T16:09:23

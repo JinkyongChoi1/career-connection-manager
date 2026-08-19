@@ -1,0 +1,13 @@
+Name: Avery Kim
+Title: Director of Strategy
+Company: Meridian Models
+Location: San Francisco, CA
+LinkedIn: https://www.linkedin.com/in/example-avery
+Notes: Met during a public AI strategy event
+
+Job title: Senior Business Operations Lead
+Company: Rainier Intelligence
+Location: Seattle, WA
+URL: https://example.com/rainier/jobs/bizops
+Description: Build operating systems for a growing AI product organization.
+
