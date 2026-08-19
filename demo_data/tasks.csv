@@ -1,5 +1,5 @@
 task_id,type,due_date,status,priority,person_id,job_id,title,note,created_at,completed_at
-tsk_resume,application,2026-08-19,open,high,,job_strategy,Tailor resume for Northstar AI,Focus on scaling and cross-functional decisions,2026-08-19T16:09:23,
-tsk_intro,outreach,2026-08-19,open,high,per_samira,job_gtm,Send introduction to Samira,Mention shared alumni group,2026-08-19T16:09:23,
-tsk_followup,follow_up,2026-08-20,open,medium,per_maya,job_strategy,Follow up with Maya,Ask one focused question,2026-08-19T16:09:23,
-tsk_chat,coffee_chat,2026-08-21,open,high,per_jordan,job_bizops,Coffee chat with Jordan,Prepare three questions,2026-08-19T16:09:23,
+tsk_resume,application,2026-08-19,open,high,,job_strategy,Tailor resume for Northstar AI,Focus on scaling and cross-functional decisions,2026-08-19T16:16:21,
+tsk_intro,outreach,2026-08-19,open,high,per_samira,job_gtm,Send introduction to Samira,Mention shared alumni group,2026-08-19T16:16:21,
+tsk_followup,follow_up,2026-08-20,open,medium,per_maya,job_strategy,Follow up with Maya,Ask one focused question,2026-08-19T16:16:21,
+tsk_chat,coffee_chat,2026-08-21,open,high,per_jordan,job_bizops,Coffee chat with Jordan,Prepare three questions,2026-08-19T16:16:21,

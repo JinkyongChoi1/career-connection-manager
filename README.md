@@ -12,6 +12,8 @@ updated: 2026-08-19
 Career Connection Manager keeps the people, roles, conversations, and follow-ups behind a focused job search in one place.
 Imports are reviewed before anything is saved, outreach stays in draft until you send it yourself, and the dashboard runs from local files you control.
 
+![Career Connection Manager dashboard demo](assets/career-connection-manager-preview.png)
+
 > [!important] Product promise
 > Paste messy career information and get a clear next action.
 
@@ -31,7 +33,23 @@ See [[PRD]] for the complete product decisions, success measures, and roadmap.
 - No message or application is sent automatically.
 - The public demo contains synthetic data only.
 
-## Try the demo
+## Dashboard demo
+
+The demo follows a fictional job seeker pursuing Strategy and Business Operations roles at three fictional AI companies: Northstar AI, Cascade Intelligence, and Lantern Compute.
+It starts with the question the product is meant to answer each morning: **what should I do next, and why?**
+
+Every item in the daily briefing leads back to its underlying record:
+
+- **Tailor a resume** comes from a saved role, its fit evidence, and its due date.
+- **Follow up with a contact** comes from a logged conversation and the next-action date.
+- **Prepare for a coffee chat** comes from the person, job, and scheduled interaction already in the workspace.
+
+The demo keeps the limits visible too.
+Missing salary information stays missing, fit reasons can be inspected, uncertain imports wait for review, and a draft never counts as a sent message.
+The names, companies, roles, and messages are synthetic.
+
+The preview above is the README cover for the product.
+The generated dashboard itself is available in [`demo_site/index.html`](demo_site/index.html).
 
 Python 3.9 or newer is the only requirement.
 
